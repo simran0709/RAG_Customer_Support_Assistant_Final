@@ -45,4 +45,4 @@ python main.py
 
 ## Author
 
-Simmu – GenAI Internship Project
+Simran – GenAI Internship Project
